@@ -1,0 +1,23 @@
+{
+  "name": "ChangeCalculator",
+  "version": "0.1.1",
+  "description": "checking any changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KrishnaSwathi/change-calc-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishnaSwathi/change-calc-api/issues"
+  },
+  "homepage": "https://github.com/KrishnaSwathi/change-calc-api",
+  "dependencies": {
+    "changecalculator": "^0.1.0"
+  }
+}
